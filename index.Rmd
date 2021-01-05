@@ -1,0 +1,15 @@
+---
+title: "My cats have a website!"
+---
+
+This is First.
+
+<img src="https://i4.ytimg.com/vi/Oj1I-edHFnY/hqdefault.jpg" style="width:50%">
+
+This is Second.
+
+<img src="https://i2.ytimg.com/vi/mAIsvROw1WQ/hqdefault.jpg" style="width:50%">
+
+They are Third!
+
+<img src="https://i2.ytimg.com/vi/MQGnNfzLu74/hqdefault.jpg" style="width:50%">
